@@ -84,7 +84,7 @@ pip install pyttsx3
 
 ## ✅ Results
 
-* Achieved over **X% accuracy** on the test dataset.
+* Achieved over **86.5% accuracy** on the test dataset.
 * Real-time predictions work smoothly with Haar cascades.
 
 ## 🛠 Tools & Libraries
